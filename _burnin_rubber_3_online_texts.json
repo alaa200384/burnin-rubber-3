@@ -3,6 +3,11 @@
     {
       "key": "_version",
       "value": "1.0"
+    },
+    {
+      "key": "_build",
+      "value": "PROTOTYPE"
     }
   ]
  }
+
